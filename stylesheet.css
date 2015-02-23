@@ -13,32 +13,21 @@ body {
     z-index: -1;
 }
 #Rainbow .rainbow-color {
-    height: 16.666666667%;
+    height: 33.333333334%;
     margin-right: 20px;
     width: 100%;
 
 }
-#Rainbow #red {
-    background-color: #FF0000;
-
-}
-#Rainbow #orange {
-    background-color: #FF8000;
+#Rainbow #pink {
+    background-color: #FF218C;
 
 }
 #Rainbow #yellow {
-    background-color: #FFFF00;
+    background-color: #FFD800;
 
 }
-#Rainbow #green {
-    background-color: #008000;
 
-}
 #Rainbow #blue {
-    background-color: #0000FF;
-
-}
-#Rainbow #violet {
-    background-color: #A000C0;
+    background-color: #21B1FF;
 
 }
