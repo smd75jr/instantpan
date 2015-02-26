@@ -2,6 +2,7 @@ body {
     background-color: #BFEDFF;
     margin: 0;
 }
+
 #Rainbow {
     height: 100%;
     opacity: 0.7;
@@ -12,22 +13,21 @@ body {
     width: 100%;
     z-index: -1;
 }
+
 #Rainbow .rainbow-color {
     height: 33.333333334%;
     margin-right: 20px;
     width: 100%;
-
 }
+
 #Rainbow #pink {
     background-color: #FF218C;
-
 }
+
 #Rainbow #yellow {
     background-color: #FFD800;
-
 }
 
 #Rainbow #blue {
     background-color: #21B1FF;
-
 }
